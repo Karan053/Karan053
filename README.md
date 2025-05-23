@@ -1,4 +1,4 @@
-![Banner](./assets/images/banner.jpg)
+![Banner](https://github.com/Karan053/Karan053/blob/main/assets/images/Banner.jpg)
 
 <h1 align="center">Hi there, I'm Karan 👋</h1>
 <h3 align="center">👨‍💻 I&IT Technical Analyst/Develop @MPBSDP</h3>
