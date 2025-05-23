@@ -9,6 +9,8 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan053&show_icons=true&locale=en" alt="karan053" /></p>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan053&theme=radical&show_icons=true&locale=en" alt="karan053" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan053&" alt="karan053" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan053&theme=radical" alt="karan053" /></p>
+</div>
