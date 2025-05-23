@@ -1,6 +1,7 @@
+![Banner](./assets/images/banner.jpg)
+
 <h1 align="center">Hi there, I'm Karan 👋</h1>
 <h3 align="center">👨‍💻 I&IT Technical Analyst/Develop @MPBSDP</h3>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan053&show_icons=true&locale=en" alt="karan053" /></p>
 
