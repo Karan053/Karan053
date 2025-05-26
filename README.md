@@ -7,6 +7,7 @@
   <a href="https://drive.google.com/file/d/13nblnqdP3wUaFQ4mwQ5yUpFQZ5R0qVly/view?usp=sharing" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
+  <a href="https://portfolio-website-eta-two-25.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <div align="center">
