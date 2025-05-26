@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Karan053/Karan053/blob/main/assets/images/Banner.jpg)
 
 <h1 align="center">Hi there, I'm Karan 👋</h1>
-<h3 align="center">👨‍💻 I&IT Technical Analyst/Develop @MPBSDP</h3>
+<h3 align="center">👨‍💻 I&IT Technical Analyst/Developer @MPBSDP</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/13nblnqdP3wUaFQ4mwQ5yUpFQZ5R0qVly/view?usp=sharing" target="_blank">
